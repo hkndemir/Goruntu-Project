@@ -1,1 +1,1 @@
-web: gunicorn train:train
+web: gunicorn main:main
