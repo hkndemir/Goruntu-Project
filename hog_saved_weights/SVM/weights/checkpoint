@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\esrah\\Desktop\\HOG-master\\hog_saved_weights\\SVM\\weights\\weights.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\esrah\\Desktop\\HOG-master\\hog_saved_weights\\SVM\\weights\\weights.ckpt"

@@ -1,0 +1,5 @@
+matplotlib~=3.5.1
+numpy~=1.21.5
+pillow~=9.0.1
+flask~=1.1.2
+werkzeug~=2.0.3
